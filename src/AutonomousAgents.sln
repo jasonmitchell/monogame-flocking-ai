@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2DFlocking", "2DFlocking\2DFlocking.csproj", "{81130301-D682-468A-B2F5-CA56FFAFF8D4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutonomousAgents", "AutonomousAgents\AutonomousAgents.csproj", "{CC8D945D-FAB6-4355-B5DB-DC782B1FCEB9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{81130301-D682-468A-B2F5-CA56FFAFF8D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{81130301-D682-468A-B2F5-CA56FFAFF8D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{81130301-D682-468A-B2F5-CA56FFAFF8D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{81130301-D682-468A-B2F5-CA56FFAFF8D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC8D945D-FAB6-4355-B5DB-DC782B1FCEB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC8D945D-FAB6-4355-B5DB-DC782B1FCEB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC8D945D-FAB6-4355-B5DB-DC782B1FCEB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC8D945D-FAB6-4355-B5DB-DC782B1FCEB9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

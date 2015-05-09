@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("2DFlocking")]
+[assembly: AssemblyTitle("AutonomousAgents")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("2DFlocking")]
+[assembly: AssemblyProduct("AutonomousAgents")]
 [assembly: AssemblyCopyright("Copyright ©  2015")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("2a10ba5f-cc51-4aca-8ac1-10e4da30fcac")]
+[assembly: Guid("1a6e5010-e41f-4020-abc5-2665c959ec1e")]
 
 // Version information for an assembly consists of the following four values:
 //

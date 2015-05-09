@@ -1,6 +1,6 @@
 using System;
 
-namespace _2DFlocking
+namespace AutonomousAgents
 {
     static class Program
     {
@@ -9,7 +9,7 @@ namespace _2DFlocking
         /// </summary>
         static void Main(string[] args)
         {
-            using (MainGame game = new MainGame())
+            using (Game1 game = new Game1())
             {
                 game.Run();
             }
